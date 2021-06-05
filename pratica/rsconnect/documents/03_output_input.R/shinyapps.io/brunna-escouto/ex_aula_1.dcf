@@ -1,0 +1,14 @@
+name: ex_aula_1
+title: ex_aula_1
+username:
+account: brunna-escouto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4185946
+bundleId: 4639831
+url: https://brunna-escouto.shinyapps.io/ex_aula_1/
+when: 1621993031.21903
+lastSyncTime: 1621993031.21903
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 01_ola_mundo.R|02_output.R
