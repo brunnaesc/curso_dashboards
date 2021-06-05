@@ -1,0 +1,14 @@
+name: histograms_diamonds
+title: histograms_diamonds
+username:
+account: brunna-escouto
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4196123
+bundleId: 4648347
+url: https://brunna-escouto.shinyapps.io/histograms_diamonds/
+when: 1622152479.85366
+lastSyncTime: 1622152479.85366
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: 011-mey-segundo-app.R|020-inputs-outputs-credito.R|020-mey-segundo-app.R|021-inputs-outputs-pokemon.R|022-inputs-outputs-ssp.R|030-sidebarLayout.R|031-inputs-outputs-credito.R|031-navbarPage.R|032-inputs-outputs-pokemon.R|033-inputs-outputs-ssp.R|040-shinydashboard.R|040-sidebarLayout.R|050-navbarPage.R|050-ui-reativa-cetesb.R|051-ui-reativa-pokemon.R|052-ui-reativa-ssp.R|060-shinydashboard.R|071-ui-reativa-cetesb.R|072-ui-reativa-pokemon.R|073-ui-reativa-ssp.R|extra-01-input-output.R|extra-010-input-output.R|extra-02-input-output.R|extra-020-input-output.R|extra-021-selecao-multipla.R|extra-022-date-input.R|extra-03-selecao-multipla.R
